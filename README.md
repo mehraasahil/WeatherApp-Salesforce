@@ -1,4 +1,6 @@
 # Salesforce DX Project: Next Steps
+![Screenshot 2024-07-22 122517](https://github.com/user-attachments/assets/17714630-3188-4bf2-940e-1a9509edcc94)
+
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
